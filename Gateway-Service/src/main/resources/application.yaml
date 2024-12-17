@@ -1,0 +1,17 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: user-ms
+          uri: lb://USER-SERVICE
+          predicates:
+            - Path=/users/**
+        - id: organisation-ms
+          uri: lb://ORGANISATION-SERVICE
+          predicates:
+            - Path=/organisations/**
+        - id: donation-ms
+          uri: lb://DONATION-SERVICE
+          predicates:
+            - Path=/donations/**
+
