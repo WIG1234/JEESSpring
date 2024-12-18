@@ -11,6 +11,10 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/OrganisationMS" />
         <option name="gradleJvm" value="#JAVA_HOME" />
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/PaymentMS" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+      </GradleProjectSettings>
     </option>
   </component>
 </project>

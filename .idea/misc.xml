@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/Eureka-Serveur/pom.xml" />
         <option value="$PROJECT_DIR$/Config-serveur/pom.xml" />
         <option value="$PROJECT_DIR$/Config-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/PaymentMS/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
